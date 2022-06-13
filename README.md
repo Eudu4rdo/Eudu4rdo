@@ -4,6 +4,7 @@
 - Currently working on Digital Brokers
 - Web Developer
 - Data science enthusiast
+- 9/10 Computer Enginner
 - I love work with sports, e-sports and economy!
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/Eudu4rdo">
