@@ -1,11 +1,11 @@
 ### Hey! Eu sou Eduardo.
 ##
 
-- Currently working on Digital Brokers
-- Web Developer
-- Data science enthusiast
-- 9/10 Computer Enginner
-- I love work with sports, e-sports and economy!
+- 👨🏽‍💻 Currently working on Digital Brokers
+- 💻 Web Developer with PHP and Laravel
+- 📊 Data science enthusiast
+- ⚙ 9/10 Computer Enginner
+- ⚽ I love work with sports, e-sports and economy!
 <div align="center" style="display: inline_block;">
   <a href="https://github.com/Eudu4rdo">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Eudu4rdo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
