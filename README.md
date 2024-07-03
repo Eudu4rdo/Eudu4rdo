@@ -13,7 +13,7 @@
 </div>
 
 <div  align="center"  style="display: inline_block;">
-	Minha Stack atual<br>
+	My current stack<br>
 	<img align="center"  alt="Laravel"  height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-line.svg" />
 	<img align="center"  alt="Livewire"  height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/livewire/livewire-original.svg"/>
 	<img align="center"  alt="AlpineJS"  height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/alpinejs/alpinejs-original.svg"/>
