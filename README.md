@@ -2,7 +2,7 @@
 ##
 - 👨🏽‍💻 Currently working on Digital Brokers
 - 💻 Web Developer with PHP and Laravel
-- 📊 Data science enthusiast
+- 📊 AWS Services enthusiast
 - ⚙ Computer Enginner by IFTM-UPT
 - ⚽ I love work with sports, e-sports and economy!
 
