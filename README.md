@@ -1,6 +1,6 @@
 ###  Hey! Eu sou Eduardo.
 ##
-- 👨🏽‍💻 Currently working on Digital Brokers
+- 👨🏽‍💻 Currently working on Auket Hub Imobiliário
 - 💻 Web Developer with PHP and Laravel
 - 📊 AWS Services enthusiast
 - ⚙ Computer Enginner by IFTM-UPT
